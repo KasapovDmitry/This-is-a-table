@@ -1,0 +1,32 @@
+[
+    {
+    "id": 0,
+    "value": {
+        "gid": "143431W20",
+        "brand": "KNECHT",
+        "art": "OC47",
+        "name": "Фильтр масляный",
+        "d_deliv": 1,
+        "kr": 1,
+        "num": 30,
+        "price": 194.04,
+        "whse": "MSK",
+        "is_returnable": 1
+        }
+    },
+    {
+    "id": 1,
+    "value": {
+        "gid": "143431W20",
+        "brand": "KNECHT",
+        "art": "OC49",
+        "name": "Фильтр масляный",
+        "d_deliv": 1,
+        "kr": 1,
+        "num": 33,
+        "price": 120.04,
+        "whse": "MSK",
+        "is_returnable": 2
+        }
+    }
+]
